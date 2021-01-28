@@ -10,5 +10,6 @@ If you haven't installed the learn-co gem or gone through the manual set up step
 <iframe width="640" height="480" src="https://www.youtube.com/embed/H-6D2rOBVrg" frameborder="0" allowfullscreen></iframe>
 
 > **Note for WSL Users: Although the video above is for the macOS, the commands shown in the terminal will be the same in
-> your Ubuntu shell. When you open Ubuntu, you should start in your home directory. Confirm this with the command `pwd`.
-> In this folder, you may not have a directory called `Development` initially, but can create one with `mkdir Development`
+> your Ubuntu shell. When you open Ubuntu, you should start in your home directory. Confirm this with the command `pwd`. In
+> Ubuntu, your home directory will start off empty, so there will not be a `Development` folder present, and running `ls` will
+> not produce any results. You can create a `Development` folder with `mkdir Development`.
