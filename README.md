@@ -1,9 +1,6 @@
 # How to Organize Your Work for this Course
 
-From now on, you'll be executing code on you own computer instead of relying on the Learn IDE during your PREWORK. For each and every lab, you'll be copying the code to your computer using [Git](https://git-scm.com).  You will then be able to run and test your code in your terminal, and submit your work using the learn-co gem.  
-
-If you haven't installed the learn-co gem or gone through the manual set up steps for your computer, you should follow [these instructions](https://github.com/learn-co-curriculum/immersive-mod-1-introduction-manual-setup) first.
-
+From now on, you'll be executing code on you own computer. For each and every lab, you'll be copying the code to your computer using [Git](https://git-scm.com).  You will then be able to run and test your code in your terminal, and submit your work using the learn-co gem.  
 
 ### Setting Up Your Directory Structure
 
