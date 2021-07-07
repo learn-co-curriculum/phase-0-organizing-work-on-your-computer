@@ -1,4 +1,4 @@
-# How to Organize Your Work for this Course
+# Organizing Your Work for this Course
 
 From now on, you'll be executing code on you own computer. For each and every lab, you'll be copying the code to your computer using [Git](https://git-scm.com).  You will then be able to run and test your code in your terminal, and submit your work using the learn-co gem.  
 
