@@ -3,18 +3,64 @@
 ## Learning Goals
 
 - Configure a directory for storing lessons
-- Understand the relationship between navigating directories in the terminal and navigating directories in a graphical user interface like Finder
+- Understand the relationship between navigating directories in the terminal and
+  navigating directories in a graphical user interface like Finder
 - Practice common terminal commands such as `pwd`, `ls`, `mkdir`, and `cd`
 
 ## Instructions
 
-From now on, you'll be executing code on your own computer. For each and every lab, you'll be copying the code to your computer using [Git](https://git-scm.com).  You will then be able to run and test your code in your terminal, and submit your work using the learn-co gem.  
+From now on, you'll be executing code on your own computer. For each and every
+lab, you'll be copying the code to your computer using
+[Git](https://git-scm.com). You will then be able to run and test your code in
+your terminal, and submit your work using the learn-co gem.
 
-## Setting Up Your Directory Structure
+## MacOS: Setting Up Your Directory Structure
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/H-6D2rOBVrg" frameborder="0" allowfullscreen></iframe>
+For Mac users, follow along with this video:
 
-> **Note for WSL Users: Although the video above is for the macOS, the commands shown in the terminal will be the same in
-> your Ubuntu shell. When you open Ubuntu, you should start in your home directory. Confirm this with the command `pwd`. In
-> Ubuntu, your home directory will start off empty, so there will not be a `Development` folder present, and running `ls` will
-> not produce any results. You can create a `Development` folder with `mkdir Development`.
+<iframe width="640" height="480" src="https://www.youtube.com/embed/_N3N8awG6kw" frameborder="0" allowfullscreen></iframe>
+
+## WSL: Setting Up Your Directory Structure
+
+For Windows users, follow along with this video:
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/iXFee6pPMKE" frameborder="0" allowfullscreen></iframe>
+
+## Creating Folders to Organize Your Work
+
+- Go to your terminal and navigate to your home directory by typing `cd ~`
+- Create a `Development` folder by typing `mkdir Development` (if you're a mac
+  user, this folder already exists)
+- Navigate into this folder with `cd Development`
+- In here, create a directory for the prework with `mkdir prework`
+
+You'll be going through multiple phases in this course, so it may also be
+helpful to go one step further and create folders for phases 0 through 5 within
+`Development`.
+
+Having a specific place for your work will make it easier to find if you ever
+need to look back at an earlier project. It'll also keep the rest of your
+computer's folders clear of random code.
+
+## Terminal Command Reference
+
+Here's a quick reference of the terminal commands used in these videos. For
+more, check out this awesome [cheatsheet].
+
+| Command      | Description                                                    |
+| ------------ | -------------------------------------------------------------- |
+| ls           | List all files and folders in the current directory            |
+| ls -a        | List all files and folders, including hidden files             |
+| mkdir [name] | Make a new directory with the given [name]                     |
+| cd [folder]  | Change directories to the given [folder]                       |
+| cd ..        | Change directories to the parent directory                     |
+| cd ~         | Change directories to the home directory                       |
+| pwd          | Print the full path of the current working directory           |
+| explorer.exe | (Windows only) Open the File Explorer to the current directory |
+| open .       | (Mac) Open the Finder application to the current directory     |
+
+## Resources
+
+- [Terminal Commands Cheatsheet][cheatsheet]
+
+[cheatsheet]: https://github.com/0nn0/terminal-mac-cheatsheet
