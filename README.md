@@ -41,3 +41,26 @@ helpful to go one step further and create folders for phases 0 through 5 within
 Having a specific place for your work will make it easier to find if you ever
 need to look back at an earlier project. It'll also keep the rest of your
 computer's folders clear of random code.
+
+## Terminal Command Reference
+
+Here's a quick reference of the terminal commands used in these videos. For
+more, check out this awesome [cheatsheet].
+
+| Command      | Description                                                    |
+| ------------ | -------------------------------------------------------------- |
+| ls           | List all files and folders in the current directory            |
+| ls -a        | List all files and folders, including hidden files             |
+| mkdir [name] | Make a new directory with the given [name]                     |
+| cd [folder]  | Change directories to the given [folder]                       |
+| cd ..        | Change directories to the parent directory                     |
+| cd ~         | Change directories to the home directory                       |
+| pwd          | Print the full path of the current working directory           |
+| explorer.exe | (Windows only) Open the File Explorer to the current directory |
+| open .       | (Mac) Open the Finder application to the current directory     |
+
+## Resources
+
+- [Terminal Commands Cheatsheet][cheatsheet]
+
+[cheatsheet]: https://github.com/0nn0/terminal-mac-cheatsheet
