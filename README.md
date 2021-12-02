@@ -36,8 +36,8 @@ For Windows users, follow along with this video:
 - Navigate into this folder with `cd code`
 - In here, create a directory for the prework with `mkdir prework`
 
-You'll be going through multiple phases in this course, so it may also be
-helpful to go one step further and create folders for phases 0 through 5 within
+You'll be going through multiple phases in this course, so it may be helpful
+to go one step further and also create folders for phases 1 through 5 within
 `code`.
 
 Having a specific place for your work will make it easier to find if you ever
