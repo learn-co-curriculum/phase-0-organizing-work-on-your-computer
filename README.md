@@ -38,7 +38,8 @@ For Windows users, follow along with this video:
 
 You'll be going through multiple phases in this course, so it may be helpful
 to go one step further and also create folders for phases 1 through 5 within
-`code`.
+`code`. When making the phase folders use a `-` between words. For example,
+the phase 1 folder should be named `phase-1`.
 
 Having a specific place for your work will make it easier to find if you ever
 need to look back at an earlier project. It'll also keep the rest of your
