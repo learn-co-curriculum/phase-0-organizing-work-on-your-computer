@@ -28,13 +28,14 @@ For Windows users, follow along with this video:
 
 ## Creating Folders to Organize Your Work
 
-- Go to your terminal and navigate to your home directory by typing `cd ~`
+- Go to your terminal and navigate to your home directory by typing `cd ~`.
 - Navigate into the `Development` folder with `cd Development` (if you don't
   have a `Development` folder yet, you can create it with `mkdir Development`,
-  then `cd` into it)
-- Create a directory for all your assignments by typing `mkdir code`
-- Navigate into this folder with `cd code`
-- In here, create a directory for the prework with `mkdir prework`
+  then `cd` into it).
+- Create a directory for all your assignments by typing `mkdir code`.
+- Navigate into this folder with `cd code`.
+- In here, create a directory for Software Engineering Prep with
+  `mkdir se-prep`.
 
 You'll be going through multiple phases in this course, so it may be helpful
 to go one step further and also create folders for phases 1 through 5 within
