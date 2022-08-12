@@ -49,7 +49,7 @@ computer's folders clear of random code.
 ## Terminal Command Reference
 
 Here's a quick reference of the terminal commands used in these videos. For
-more, check out this awesome [cheatsheet].
+more, check out this awesome [cheatsheet][].
 
 | Command      | Description                                                |
 | ------------ | ---------------------------------------------------------- |
