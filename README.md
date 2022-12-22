@@ -12,7 +12,12 @@
 From now on, you'll be executing code on your own computer. For each and every
 lab, you'll be copying the code to your computer using
 [Git](https://git-scm.com). You will then be able to run and test your code in
-your terminal, and submit your work using the learn-co gem.
+your terminal and submit your work to Canvas using a tool called [CodeGrade][].
+You will learn how to do all of this in the next lesson. First, however, you
+need to get your local directory structure set up and learn how to navigate
+around in it.
+
+[CodeGrade]: https://help.codegrade.com/for-students/getting-started
 
 ## MacOS: Setting Up Your Directory Structure
 
